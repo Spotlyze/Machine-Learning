@@ -17,7 +17,7 @@ The dataset used for training the model consists of labeled images of facial ski
 ## Documentation
 - Research skin conditions and detection methods.
 - Collect labeled facial images of acne, dark circles, normal and wrinkles.
-- Split the dataset (70% training, 30% validation) and augment with ImageDataGenerator.
+- Split the dataset (80% training, 20% validation) and augment with ImageDataGenerator.
 - Build and fine-tune a VGG16 model for skin condition classification.
 - Train the model, monitor accuracy, and evaluate it on the validation set.
 - Test the model with new, unseen images to assess classification performance.
