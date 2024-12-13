@@ -6,7 +6,7 @@ Spotlyze is an innovative application designed to analyze facial skin conditions
 - Data Augmentation: Improves model accuracy with ImageDataGenerator.
 ## Dataset
 The dataset used for training the model consists of labeled images of facial skin conditions, including acne, dark circles, and wrinkles. These images were collected and stored in Google Drive, and the dataset is divided into training and validation sets for effective model training and testing.
-- Link Dataset: https://drive.google.com/drive/folders/1TyLOGppiMQSrX2KYf5nbBdhl-UiWtn-B?usp=drive_link 
+- [Spotlyze Dataset](https://drive.google.com/drive/folders/16uyZGgPZoC0ewJCnET9NmRFTXH1WIdzT?usp=drive_link)
 ## Requirements
 - TensorFlow
 - NumPy
