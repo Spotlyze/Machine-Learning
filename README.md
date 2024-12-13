@@ -23,7 +23,7 @@ The dataset used for training the model consists of labeled images of facial ski
 - Test the model with new, unseen images to assess classification performance.
 - Use Nearest Neighbors and Cosine Similarity for personalized skincare recommendations.
 ## Results
-- Classification Model: Achieved 94% accuracy on the validation dataset.
+- Classification Model: Achieved 94.69% accuracy and a loss of 0.1445 on the validation dataset. 
 ![alt text](https://github.com/Spotlyze/Spotlyze-Machine-Learning/blob/main/Model/classification_result.jpg)
 
 - Skincare Recommendation: Provided personalized skincare suggestions tailored to user skin types and concerns.
